@@ -159,7 +159,7 @@ Follow these steps to install and run the e-commerce website:
      ```
      git clone https://github.com/MuhammedFahad786-mf/MD-Ecommerce-website.git
      ```
-   - Alternatively, you can download the repository as a ZIP file from the following URL: [https://github.com/ShahandFahad/E-Commerce/archive/refs/heads/main.zip](https://github.com/ShahandFahad/E-Commerce/archive/refs/heads/main.zip)
+   - Alternatively, you can download the repository as a ZIP file from the following URL: [https://github.com/MuhammedFahad786-mf/MD-Ecommerce-website/edit/main.zip](https://github.com/MuhammedFahad786-mf/MD-Ecommerce-website/edit/main.zip)
    - Extract the contents of the ZIP file to a directory of your choice.
 
 2. Configure Database:
@@ -187,7 +187,7 @@ To access the admin panel of the e-commerce website, follow these steps:
 
 1. Open your web browser and navigate to the admin URL (e.g., `http://localhost/E-Commerce/login`).
 2. Login using the default admin credentials:
-   - Username: `admin`
+   - Username: `FahadAdmin`
    - Password: `adminfahad`
 3. Once logged in, you can manage products, orders, customers, and other administrative tasks from the admin panel.
 
